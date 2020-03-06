@@ -1,4 +1,4 @@
-# POROs!
+### POROs!
 
 Create a new **Plain-old Ruby Object** in the `lib` folder, then issue a new PR.
 
